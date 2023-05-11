@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "123897765149",
+    "firebase_url": "https://dataset-d81c9-default-rtdb.firebaseio.com",
+    "project_id": "dataset-d81c9",
+    "storage_bucket": "dataset-d81c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123897765149:android:809df4382c8ceb5b9f95f4",
+        "android_client_info": {
+          "package_name": "com.example.dataset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123897765149-vl025jban19co68l1muhmltlc0lhonpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs9M7d5bGmQlwGzCVJdJFNMpWjgNuy1IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123897765149-vl025jban19co68l1muhmltlc0lhonpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123897765149:android:721e76f22d262fe19f95f4",
+        "android_client_info": {
+          "package_name": "com.example.datasetadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123897765149-vl025jban19co68l1muhmltlc0lhonpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs9M7d5bGmQlwGzCVJdJFNMpWjgNuy1IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123897765149-vl025jban19co68l1muhmltlc0lhonpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
